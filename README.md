@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is Kaan Aydeniz.
+I am a Bilkent University student.
+I'm here to develop my coding skill by helping projects as a volunteer.
+
 
 <!--
 **Kaanayden/Kaanayden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
