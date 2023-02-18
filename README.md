@@ -25,7 +25,3 @@ LinkedIn: https://www.linkedin.com/in/kaanaydeniz/
 ### Turkish Airlines Travel Hackathon:
 
 [![NFT Destinations](https://github-readme-stats.vercel.app/api/pin/?username=kaanayden&repo=THY-Hackathon-NFT-Destination-Project)](https://github.com/Kaanayden/THY-Hackathon-NFT-Destination-Project)
-
-### ETH Prague Hackathon Project:
-
-[![Ethereum Music NFT Copyright Protocol](https://github-readme-stats.vercel.app/api/pin/?username=BilkentCrypto&repo=p2p-bike-rental)](https://github.com/BilkentCrypto/p2p-bike-rental)
