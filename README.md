@@ -11,21 +11,3 @@ LinkedIn: https://www.linkedin.com/in/kaanaydeniz/
 
 [![Kaanayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaanayden&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=12)](https://github.com/Kaanayden)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaanayden&layout=compact&langs_count=8&border_radius=10)](https://github.com/Kaanayden)
-
-### My Projects
-### CS-102 Group Project:
-
-[![Bilkent Halisaha App](https://github-readme-stats.vercel.app/api/pin/?username=kutluhann&repo=bilkent-halisaha-app)](https://github.com/kutluhann/bilkent-halisaha-app)
-
-### MikroVeri (Turkey Digiathon Hackathon Third Prize Winner):
-
-[![MikroVeri](https://github-readme-stats.vercel.app/api/pin/?username=BilkentCrypto&repo=mikro-veri)](https://github.com/BilkentCrypto/mikro-veri)
-
-### Turkish Airlines Travel Hackathon:
-
-[![NFT Destinations](https://github-readme-stats.vercel.app/api/pin/?username=kaanayden&repo=THY-Hackathon-NFT-Destination-Project)](https://github.com/Kaanayden/THY-Hackathon-NFT-Destination-Project)
-
-### ETH Prague Hackathon Project:
-
-[![Ethereum Music NFT Copyright Protocol](https://github-readme-stats.vercel.app/api/pin/?username=BilkentCrypto&repo=p2p-bike-rental)](https://github.com/BilkentCrypto/p2p-bike-rental)
-
