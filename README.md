@@ -21,7 +21,3 @@ LinkedIn: https://www.linkedin.com/in/kaanaydeniz/
 ### MikroVeri (Turkey Digiathon Hackathon Third Prize Winner):
 
 [![MikroVeri](https://github-readme-stats.vercel.app/api/pin/?username=BilkentCrypto&repo=mikro-veri)](https://github.com/BilkentCrypto/mikro-veri)
-
-### Turkish Airlines Travel Hackathon:
-
-[![NFT Destinations](https://github-readme-stats.vercel.app/api/pin/?username=kaanayden&repo=THY-Hackathon-NFT-Destination-Project)](https://github.com/Kaanayden/THY-Hackathon-NFT-Destination-Project)
