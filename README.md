@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Kaan Aydeniz.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaanayden&label=Profile%20views&color=0e75b6&style=flat" alt="kaanayden" /> </p>
-I am a Bilkent University student.
-I'm here to develop my coding skill by helping projects.
+I am a junior Computer Science student at Bilkent University.
+I'm here to develop my coding skills through developing projects.
 
 LinkedIn: https://www.linkedin.com/in/kaanaydeniz/
 
@@ -14,9 +14,9 @@ LinkedIn: https://www.linkedin.com/in/kaanaydeniz/
 
 
 ### My Projects
-### CS-102 Group Project:
+### Per Capita (ETHGlobal Superhack 2023 Top 10 Finalist):
 
-[![Bilkent Halisaha App](https://github-readme-603.vercel.app/api/pin/?username=kutluhann&repo=bilkent-halisaha-app)](https://github.com/kutluhann/bilkent-halisaha-app)
+[![Bilkent Halisaha App](https://github-readme-603.vercel.app/api/pin/?username=BilkentCrypto&repo=per-capita-superhack)](https://github.com/BilkentCrypto/per-capita-superhack)
 
 ### MikroVeri (Turkey Digiathon Hackathon Third Prize Winner):
 
