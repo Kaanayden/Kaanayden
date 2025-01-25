@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Kaan Aydeniz.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaanayden&label=Profile%20views&color=0e75b6&style=flat" alt="kaanayden" /> </p>
-I am a junior Computer Science student at Bilkent University.
+I am a senior Computer Science student at Bilkent University.
 I'm here to develop my coding skills through developing projects.
 
 LinkedIn: https://www.linkedin.com/in/kaanaydeniz/
